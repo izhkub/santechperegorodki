@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://izhkub.github.io/santechperegorodki/sitemap.xml
